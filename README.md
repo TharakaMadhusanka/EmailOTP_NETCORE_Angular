@@ -1,1 +1,1 @@
-# EmailOTP_NETCORE_Angular
+# EmailOTP_NETCORE
